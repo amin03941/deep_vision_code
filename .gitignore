@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+reports/
+qdrant_data/
+extracted_data/
+vectors.pkl
+processed_subjects.json
+data/*.zip
+*.pkl
+*.npy
