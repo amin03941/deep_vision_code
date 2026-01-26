@@ -1,6 +1,6 @@
 \# 🧬 Bio-Scout: Multimodal Biological Design \& Discovery Intelligence
 
-
+\#data link : https://drive.google.com/drive/folders/1aGkNzSGp8K-7DSiDeNr5tjSPem9MdFyG?usp=sharing
 
 Bio-Scout is a multimodal biological intelligence system integrating genomic data (FASTQ 16S rRNA sequences), clinical metadata, and semantic embeddings into a unified vector space for personalized therapeutic discovery.
 
