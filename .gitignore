@@ -56,3 +56,12 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
+
+# Additional patterns from remote
+reports/
+qdrant_data/
+extracted_data/
+vectors.pkl
+processed_subjects.json
+data/*.zip
+*.npy
